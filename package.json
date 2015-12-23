@@ -1,0 +1,10 @@
+{
+  "name": "myproject",
+  "devDependencies": {
+    "superagent": "latest",
+    "mocha": "latest"
+  },
+  "scripts": {
+    "test": "mocha unit_test"
+  }
+}
